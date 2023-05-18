@@ -4,7 +4,7 @@ This Project was taken from a prompt on the kaggle website a lnk to the prompt c
 
 https://www.kaggle.com/datasets/gauravduttakiit/the-great-real-estate-data-challenge
 
-XGBoost information:
+** XGBoost information: **
 https://www.youtube.com/watch?v=OtD8wVaFm6E
 
 (The StatQuest Youtube Channel is a resource for all things statistcs!)
