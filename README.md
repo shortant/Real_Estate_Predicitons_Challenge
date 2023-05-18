@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/gauravduttakiit/the-great-real-estate-data-chall
 **XGBoost information:**
 https://www.youtube.com/watch?v=OtD8wVaFm6E
 
-(The StatQuest Youtube Channel is a resource for all things statistcs!)
+(The StatQuest Youtube Channel is great a resource for all things statistcs!)
 
 ## Python Libraries: ##
 > pandas
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
  
 ### Each File in this repository explains a different step in the process of findings: ###
 
-- Dashobard 1: PNG version of Tableau Dashboard
+- Dashboard 1: PNG version of Tableau Dashboard
 
 - Housing Predictions by Segment(XGBoosted).ipynb: Viwable XGBoost python 
 
