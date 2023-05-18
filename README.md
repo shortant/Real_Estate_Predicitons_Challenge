@@ -21,5 +21,14 @@ Python Libraries:
 - sklearn.metric(Average Precision Score)
 - sklearn.metrics(precison-recall curve)
 - xgboost
-Each File in this repositroy explains a different step in the process of findings:
+- 
+Each File in this repository explains a different step in the process of findings:
+Dashobard 1: PNG version of Tableau Dashboard
+Housing Predictions by Segment(XGBoosted).ipynb: Viwable XGBoost python 
+Housing Price Predictions.twbx: Interactive Dashboard on Tableau
+The Great Real Estate Data Challenge(XGBoosted Model).pdf: summary of analyses and process
+
+https://public.tableau.com/app/profile/anthony.shortt
+
+
 
