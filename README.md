@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
 (The StatQuest Youtube Channel is a resource for all things statistcs!)
 
 Python Libraries:
-- pandas
-- numoy
+> pandas
+> numpy
 - sklearn.metrics
 - sklearn.model_selection (GridSearchCV)
 - sklearn.model_selection (train_test_split_
