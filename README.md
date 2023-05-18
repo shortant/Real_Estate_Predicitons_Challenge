@@ -10,6 +10,16 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
 (The StatQuest Youtube Channel is a resource for all things statistcs!)
 
 Python Libraries:
-
+- pandas
+- numoy
+- sklearn.metrics
+- sklearn.model_selection (GridSearchCV)
+- sklearn.model_selection (train_test_split_
+- sklearn.decomposition (PCA)
+- sklearn (preprocessing)
+- matplotlib.pyplot
+- sklearn.metric(Average Precision Score)
+- sklearn.metrics(precison-recall curve)
+- xgboost
 Each File in this repositroy explains a different step in the process of findings:
 
