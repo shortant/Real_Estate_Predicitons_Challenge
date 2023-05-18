@@ -11,17 +11,28 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
 
 Python Libraries:
 > pandas
+
 > numpy
-- sklearn.metrics
-- sklearn.model_selection (GridSearchCV)
-- sklearn.model_selection (train_test_split_
-- sklearn.decomposition (PCA)
-- sklearn (preprocessing)
-- matplotlib.pyplot
-- sklearn.metric(Average Precision Score)
-- sklearn.metrics(precison-recall curve)
-- xgboost
-- 
+ 
+
+> sklearn.metrics
+
+> sklearn.model_selection (GridSearchCV)
+
+> sklearn.model_selection (train_test_split_
+
+> sklearn.decomposition (PCA)
+
+> sklearn (preprocessing)
+
+> matplotlib.pyplot
+
+> sklearn.metric(Average Precision Score)
+
+> sklearn.metrics(precison-recall curve)
+
+> xgboost
+ 
 Each File in this repository explains a different step in the process of findings:
 Dashobard 1: PNG version of Tableau Dashboard
 Housing Predictions by Segment(XGBoosted).ipynb: Viwable XGBoost python 
