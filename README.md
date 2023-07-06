@@ -9,12 +9,15 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
 
 (The StatQuest Youtube Channel is great a resource for all things statistcs!)
 
+### Summary of Python Coding Process
+https://docs.google.com/document/d/e/2PACX-1vSS2uEqniWqMW0R_PZ8nSGpoEEIDYwBsj-llsQ8j6JhjAX_3jIjAiYXxTEaor-KN2IRC0xdBhKtxABx/pub
+
+
 ## Python Libraries: ##
 > pandas
 
 > numpy
  
-
 > sklearn.metrics
 
 > sklearn.model_selection (GridSearchCV)
@@ -41,9 +44,14 @@ https://www.youtube.com/watch?v=OtD8wVaFm6E
 
 - Housing Price Predictions.twbx: Interactive Dashboard on Tableau
 
-- The Great Real Estate Data Challenge(XGBoosted Model).pdf: summary of analyses and process
+
+### Tableau account
 
 https://public.tableau.com/app/profile/anthony.shortt
+
+### LinkedIn
+
+www.linkedin.com/in/anthonyshortt
 
 
 
